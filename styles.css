@@ -1,0 +1,122 @@
+.generalHeading {
+    font-size: 30;
+    font-weight: bold;
+    display:block;
+    text-align: center;
+    font-family: 'Poppins','Times New Roman', sans-serif;
+}
+.generalHeadingu {
+    font-size: 30;
+    font-weight: bold;
+    display:block;
+    text-align: center;
+    font-family: 'Poppins','Times New Roman', sans-serif;
+    text-decoration: underline;
+}
+.heading2 {
+    font-size: 25;
+    font-weight: bold;
+    display:block;
+    text-align: center;
+    font-family: 'Poppins','Times New Roman', sans-serif;
+}
+.heading2u {
+    font-size: 25;
+    font-weight: bold;
+    display:block;
+    text-align: center;
+    font-family: 'Poppins','Times New Roman', sans-serif;
+    text-decoration: underline;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  tr:hover {
+    background-color: #ddd;
+  }
+.innerHeading {
+    font-size: 25;
+    font-weight: bold;
+    color:blue;
+    display:block;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    padding: 2%;
+}
+h1,h2,h3,h4,h5,h6,p {
+    padding-left: 10;
+    padding-right: 10;
+}
+.bolded {
+    padding: 10;
+    font-size: 25;
+}
+.bold {
+    font-weight: bold;
+    display: inline;
+}
+.boldred {
+    font-weight: bold;
+    display: inline;
+    color: red;
+}
+.info{
+    font-size: 15;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:brown;
+    padding-left: 10;
+}
+.infored {
+    font-size: 15;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:red;
+    padding-left: 10;
+}
+.paragraph {
+    font-size: 15;
+}
+body {
+    display:block;
+    align-items: center;
+}
+.note {
+    font-size: 20;
+    font-weight: normal;
+    font-style: oblique;
+    color:gray;
+    display:block;
+    text-align: center;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.noteBigUnderline {
+    font-size: 25;
+    font-weight: normal;
+    font-style: oblique;
+    color:gray;
+    display:block;
+    text-align: center;
+    font-family: 'Times New Roman', sans-serif;
+    text-decoration: underline;
+}
